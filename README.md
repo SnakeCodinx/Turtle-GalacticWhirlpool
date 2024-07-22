@@ -8,7 +8,7 @@ click on the link to see :- ([Open in Youtube]())
 # Screenshot
 
 Rainbow-Spiral
-![screenshot](GalacticWhirlphool.png)
+![screenshot](GalacticWhirlpool.png)
 
 
 
